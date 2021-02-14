@@ -1,8 +1,19 @@
+.idea
+.metadata
+.recommenders
+.settings
+bin/
+.classpath
+.project
+*.iml
+*.log
+
 # Compiled class file
 *.class
 
 # Log file
 *.log
+
 
 # BlueJ files
 *.ctxt
